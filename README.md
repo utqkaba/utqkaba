@@ -1,4 +1,4 @@
-# Hello, there 
+# Hello, there!
 ### I am Utku KABA. :slightly_smiling_face:
 
 
