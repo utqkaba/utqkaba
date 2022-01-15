@@ -13,9 +13,7 @@
 <a href="https://github.com/utqkaba">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utqkaba&hide=shell,jupyter notebook,&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
-<a href="https://github.com/utqkaba">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=furkanhaydari&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=ffffff" alt="Utku Kaba's GitHub Stats" />
-</a>
+
 
 <br/>
 
