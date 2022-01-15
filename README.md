@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Frontend Development.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utkukaba/)  and [Mail] (utqkaba@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/utkukaba/)  and (utqkaba@gmail.com)
   
 
 
