@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Utku.</h1>
 <h3 align="center">trying to be a frontend developer 🤪</h3>
 
+<p align="left"> 
+  I'm a passionate software developer living in Izmir, Turkey. I love being part of development of web technologies.
+</p>
+
 - 📫 How to reach me **utqkaba@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
