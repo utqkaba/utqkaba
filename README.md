@@ -12,7 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/utqkaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utqkaba" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/utkukaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkukaba" height="30" width="40" /></a>
-<a href="https://medium.com/@utqkaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utqkaba" height="30" width="40" /></a>
+<a href="https://medium.com/@utkukaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@utqkaba" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/utq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="utq" height="30" width="40" /></a>
 </p>
 
