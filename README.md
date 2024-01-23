@@ -16,4 +16,4 @@
 
 <br/>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utqkaba&show_icons=true&locale=en&layout=donut&theme=codeSTACKr" alt="utqkaba" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utqkaba&show_icons=true&locale=en&layout=donut&theme=aura_dark" alt="utqkaba" /></p>
