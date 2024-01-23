@@ -17,4 +17,3 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=utqkaba&show_icons=true&locale=en&layout=donut&theme=tokyonight" alt="utqkaba" /></p>
-<p>[![Utku's GitHub stats](https://github-readme-stats.vercel.app/api?username=utqkaba)](https://github.com/utqkaba/github-readme-stats)</p>
