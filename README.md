@@ -6,7 +6,7 @@
 </p>
 
 - How to reach me; **utqkaba@gmail.com**
-- And more info; **https://imutq.netlify.app/**
+- And more info; **https://utkukaba.netlify.app/**
   
 - Connect with me:
 <a href="https://twitter.com/utqkaba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utqkaba" height="30" width="40" /></a>
